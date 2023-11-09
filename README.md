@@ -1,2 +1,3 @@
 # basic_sql
-Basic SQL Operations on a table, given in README
+Basic SQL Operations on a table, given below
+
